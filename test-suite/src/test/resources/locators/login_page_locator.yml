@@ -1,0 +1,13 @@
+default:
+
+  id:
+        
+  name:
+    login.username: 'username'
+    login.password: 'password'
+  
+  css:
+    login.btn: '.loginbtn'
+
+  xpath:
+    

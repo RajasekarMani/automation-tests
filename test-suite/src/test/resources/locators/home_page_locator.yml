@@ -1,0 +1,12 @@
+default:
+
+  id:
+        
+  name:
+    
+  css:
+    home-page.profile-icon: '.profile-icon'
+    home-page.booking-list: '#bookings>div[class="row"]'
+
+  xpath:
+    
